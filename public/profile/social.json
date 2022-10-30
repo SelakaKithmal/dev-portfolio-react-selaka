@@ -23,6 +23,10 @@
         {
             "network": "facebook",
             "href": "https://www.facebook.com/profile.php?id=100002950452810"
+        },
+        {
+            "network": "instagram",
+            "href": "https://www.instagram.com/selaa.online/"
         }
     ]
 }
