@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "selaka-cv"
-  }
+    "default": "selaka-portfolio",
+    "master": "selaka-portfolio"
+  },
+  "targets": {},
+  "etags": {}
 }
