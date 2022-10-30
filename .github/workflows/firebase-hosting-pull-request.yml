@@ -11,5 +11,7 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          projectId: selaka-portfolio
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SELAKA_CV }}'
+          projectId: selaka-cv
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SELAKA_PORTFOLIO }}'
+          projectId: selaka-portfolio
