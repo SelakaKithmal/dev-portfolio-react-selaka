@@ -24,6 +24,38 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "Html"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "Typescript"
+                },
+                {
+                    "icon": "images/skills/openshift.png",
+                    "title": "Openshift"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "Css"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "Css"
+                },
+                {
+                    "icon": "images/skills/cosmos.jpg",
+                    "title": "Cosmos DB"
+                },
+                {
+                    "icon": "images/skills/netcore.png",
+                    "title": ".Net Core"
+                },
+                {
+                    "icon": "images/skills/netframework.png",
+                    "title": ".Net Framework"
                 }
         ]},
         {
@@ -40,6 +72,18 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/angular.svg",
+                    "title": "Angular 2+"
+                },
+                {
+                    "icon": "images/skills/angularjs.png",
+                    "title": "AngularJS"
+                },
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "VueJS"
                 }
             ]
         },
@@ -57,6 +101,34 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/azure.jpg",
+                    "title": "Azure"
+                },
+                {
+                    "icon": "images/skills/azuredevops.png",
+                    "title": "Azure Devops"
+                },
+                {
+                    "icon": "images/skills/bitbucket.png",
+                    "title": "Bitbucket"
+                },
+                {
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/tfs.jpg",
+                    "title": "TFS"
                 }
             ]
     }
