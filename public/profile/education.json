@@ -1,19 +1,40 @@
 {
-    "education":[
+    "education": [
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+            "title": "Jan 2020 - Dec 2022",
+            "cardTitle": "Masters In Information Technology",
+            "cardSubtitle": "University of moratuwa (UOM)",
+            "cardDetailedText": "Merit Pass",
+            "icon": {
+                
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jan 2014 - Dec 2017",
+            "cardTitle": "BSc In Information Technology",
+            "cardSubtitle": "General Sir John Kotelawala Defence University (KDU)",
+            "cardDetailedText": "Second Class Upper Division",
+            "icon": {
+               
+            }
+        },
+        {
+            "title": "Jan 2008 - Jan 2011",
+            "cardTitle": "GCE Advanced Level",
+            "cardSubtitle": "Ananda College - Colombo",
+            "cardDetailedText": "1-B / 1-C / 1-S",
+            "icon": {
+               
+            }
+        },
+        {
+            "title": "Jan 1998 - Jan 2008",
+            "cardTitle": "GCE Ordinary Level",
+            "cardSubtitle": "Ananda College - Colombo",
+            "cardDetailedText": "2A's / 4B's / 3C's",
+            "icon": {
+                
+            }
         }
     ]
 }
