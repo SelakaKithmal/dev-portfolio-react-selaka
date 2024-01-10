@@ -6,7 +6,7 @@
         },
         {
             "network": "github",
-            "href": "https://github.com/SelakaKithmal"
+            "href": "https://github.com/selaa-online"
         },
         {
             "network": "stackoverflow",
@@ -18,7 +18,7 @@
         },
         {
             "network": "twitter",
-            "href": "https://twitter.com/SelakaKithmal"
+            "href": "https://twitter.com/selaa_online"
         },
         {
             "network": "facebook",
@@ -27,6 +27,10 @@
         {
             "network": "instagram",
             "href": "https://www.instagram.com/selaa.online/"
+        },
+        {
+            "network": "tiktok",
+            "href": "https://www.tiktok.com/@selaa.online"
         }
     ]
 }
