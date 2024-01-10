@@ -40,7 +40,7 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "npm install --force && set NODE_OPTIONS=--openssl-legacy-provider && node node_modules/react-scripts/bin/react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider buildreact-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
